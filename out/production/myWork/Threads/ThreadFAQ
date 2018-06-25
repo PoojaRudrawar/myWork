@@ -1,0 +1,32 @@
+
+
+Synchronized keyword and usage
+    to resolve inconsistency problems
+    applied to methods n blocks and not to class and variable
+
+    -ve increases waiting time n performance
+
+
+Race Condition?
+    when multiple threads access same obj resulting into data inconsistency
+    overcome by using synchronization
+
+
+Object lock?
+
+   to run  synchronized method object level lock required
+
+class lock?
+    every class has a lock
+    static synchronized method
+
+
+Synchronized block
+        to get lock of
+        current obj synchronized(this)
+        Class level synchronized(ClassName.class)
+
+
+  Synchronized block over Synchronized method
+        performace imporove
+        waiting time reduce

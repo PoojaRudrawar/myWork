@@ -1,0 +1,52 @@
+Comparabe interface contains compareTo method.
+
+
+public int compareTo(Object obj)
+
+obj1.compareTo(obj2)
+
+case                      returns
+obj1<obj2                  -ve
+obj1=obj2                    0
+obj1>obj2                  +ve
+
+System.out.println("a".compareTo("b"));  -ve
+
+System.out.println("a".compareTo("a"));   0
+
+System.out.println("c".compareTo("b"));  +ve
+
+System.out.println("a".compareTo(null));   nullPointerException
+
+
+In case of defaultNatural Sorting Order JVM will call compareTo method
+
+
+Comparable meant for defaultNatural Sorting Order
+Comparator Customized sorting order
+
+
+Comparator.java
+
+public int Compare(Object obj1, Object obj2)
+        returns
+        -ve if obj1<obj2
+        0      obj1=obj2
+        +ve    obj1>obj2
+
+public boolean equals()
+
+Compulsory we should provide implementation for compare method. equals method is optional as its there in Object class
+
+
+
+Note
+#########################################################################
+1)Fore predefined comparable classes like string..If we want to use default natural sorting order then go for comparable.
+    If we want to create our own order then go for comparator
+
+2)Fore predefined noncomparable classes like stringBuffer..for any order go for comparator
+
+3)For user generated classes like employee/user
+    the one who creating the class should implement comparable interface to define default natural sorting order
+    the one who is using this class and dont want to use the default natural sorting order for the class should use comparator interface

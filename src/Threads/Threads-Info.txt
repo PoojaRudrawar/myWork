@@ -1,0 +1,177 @@
+Benifits:
+    Better resource utilization.
+    Simpler program design in some situations.
+    More responsive programs.
+
+
+Context Switching Overhead
+When a CPU switches from executing one thread to executing another, the CPU needs to save the local data, program pointer etc. of the current thread, and load the local data, program pointer etc. of the next thread to execute. This switch is called a "context switch". The CPU switches from executing in the context of one thread to executing in the context of another.
+Context switching isn't cheap. You don't want to switch between threads more than necessary.
+
+
+Increased Resource Consumption
+A thread needs some resources from the computer in order to run. Besides CPU time a thread needs some memory to keep its local stack.
+It may also take up some resources inside the operating system needed to manage the thread.
+
+Concurrency Models and Distributed Systems:
+    A concurrency model specifies how threads in the the system collaborate to complete the jobs they are are given.
+    In a concurrent system different threads communicate with each other. In a distributed system different processes communicate with each other (possibly on different computers).
+    models for distributing work among workers (threads) are often similar to models of load balancing in distributed systems. The same is true of error handling techniques like logging, fail-over, idempotency of jobs etc.
+
+Stateless Workers:
+                Shared state can be modified by other threads in the system. Therefore re-read the state every time it needs it, to make sure it is working on the latest copy.
+
+ A persistent data structure always preserves the previous version of itself when modified. Thus, if multiple threads point to the same persistent data structure and one thread modifies it, the modifying thread gets a reference to the new structure. All other threads keep a reference to the old structure which is still unchanged and thus consistent. The Scala programming contains several persistent data structures.
+
+
+1)Parallel Worker Model:
+
+                                                           DELEGATOR
+                                                           |     |      |
+                                                       Worker   worker  worker
+    In the parallel worker concurrency model a delegator distributes the incoming jobs to different workers. Each worker completes the full job. The workers work in parallel, running in different threads, and possibly on different CPUs.
+    Advantages:
+        To increase the parallelization of the application you just add more workers.
+
+    DisAdvantages:
+         * The shared workers often need access to some kind of shared data, either in memory or in a shared database
+         * As soon as shared state sneaks into the parallel worker concurrency model it starts getting complicated. The threads need to access the shared data in a way that makes sure that changes by one thread are visible to the other
+         * Need to avoid race conditions and deadlocks
+         * Job Ordering is Nondeterministic
+
+2)Assembly Line / Reactive Systems / Event Drivev:
+
+                DELEGATOR ->Worker ->Worker -> worker
+
+                The workers are organized like workers at an assembly line in a factory.
+                Each worker only performs a part of the full job. When that part is finished the worker forwards the job to the next worker.
+                Each worker is running in its own thread, and shares no state with other workers.
+                This is also sometimes referred to as a shared nothing concurrency model.
+                Usually designed to use non-blocking IO.
+                In reality there could be multiple different virtual assembly lines going on at the same time.
+
+
+                                          ->Worker ->Worker -> worker
+                                DELEGATOR ->Worker ->Worker -> worker
+                                          ->Worker ->Worker -> worker
+
+
+                Platforms @ the time of writing:
+                                            Vert.x
+                                            Akka
+                                            Node.JS (JavaScript)
+
+
+
+                Actors Vs. Channels:
+
+                     In the actor model each worker is called an actor. Actors can send messages directly to each other. Messages are sent and processed asynchronously. Actors can be used to implement one or more job processing assembly lines, as described earlier. Here is a diagram illustrating the actor model:
+
+                     In the channel model, workers do not communicate directly with each other. Instead they publish their messages (events) on different channels. Other workers can then listen for messages on these channels without the sender knowing who is listening.
+
+
+                Advantages:
+                     No share data
+                     Stateful worker(so faster- no need to read data every time.)
+                     Better hardware conformity
+                     Job Ordering possible(makes it much easier to reason about the state of a system at any given point in time. )
+
+                DisAdvantages:
+                     the execution of a job is often spread out over multiple workers, and thus over multiple classes in your project. Thus it becomes harder to see exactly what code is being executed for a given job.
+                     Callback hell simply means that it gets hard to track what the code is really doing across all the callbacks, as well as making sure that each callback has access to the data it needs.
+
+
+    3)Functional Parallelism
+            Functions can be seen as "agents" or "actors" that send messages to each other, just like in the assembly line concurrency model (AKA reactive or event driven systems). When one function calls another, that is similar to sending a message.
+            All parameters passed to the function are copied, so no entity outside the receiving function can manipulate the data. This copying is essential to avoiding race conditions on the shared data. This makes the function execution similar to an atomic operation. Each function call can be executed independently of any other function call.
+            When each function call can be executed independently, each function call can be executed on separate CPUs. That means, that an algorithm implemented functionally can be executed in parallel, on multiple CPUs.
+
+            With Java 7 we got the java.util.concurrent package contains the ForkAndJoinPool which can help you implement something similar to functional parallelism. With Java 8 we got parallel streams which can help you parallelize the iteration of large collections.
+            The hard part about functional parallelism is knowing which function calls to parallelize. Coordinating function calls across CPUs comes with an overhead. The unit of work completed by a function needs to be of a certain size to be worth this overhead. If the function calls are very small, attempting to parallelize them may actually be slower than a singlethreaded, single CPU execution.
+
+   4)Same Threading
+            Same-threading is a concurrency model where a single-threaded systems are scaled out to N single-threaded systems. The result is N single-threaded systems running in parallel.
+            Each thread act as single-threaded system
+            They dont share any data
+            single thread use non-concurrent data structures, and utilize the CPU and CPU caches better.
+
+            Same-threaded systems usually has 1 thread running per CPU in the computer.
+            No Share Data
+
+
+Concurrency Vs Parrelelism
+            Concurrency: Multiple Tasks make progress @ same time may be in one cpu
+            Parrelelism: Parallelism means that an application splits its tasks up into smaller subtasks which can be processed in parallel,
+                         for instance on multiple CPUs at the exact same time.
+
+
+rACE cONDITION:
+            A race condition is a special condition that may occur inside a critical section. A critical section is a section of code that is executed by multiple threads and where the sequence of execution for the threads makes a difference in the result of the concurrent execution of the critical section.
+            When the result of multiple threads executing a critical section may differ depending on the sequence in which the threads execute, the critical section is said to contain a race condition.
+
+            The situation where two threads compete for the same resource, where the sequence in which the resource is accessed is significant, is called race conditions. A code section that leads to race conditions is called a critical section.
+            Race conditions can be avoided by proper thread synchronization in critical sections. Thread synchronization can be achieved using a synchronized block of Java code. Thread synchronization can also be achieved using other synchronization constructs like locks or atomic variables like java.util.concurrent.atomic.AtomicInteger
+
+
+            Code that is safe to call by multiple threads simultaneously is called thread safe.
+
+            It is important to remember, that even if an object is immutable and thereby thread safe, the reference to this object may not be thread safe
+
+
+Volatile:
+            Volatile keyword can make sure that a given variable is read directly from main memory, and always written back to main memory when updated.
+
+ThreadLocal:
+            The ThreadLocal class in Java enables you to create variables that can only be read and written by the same thread. Thus, even if two threads are executing the same code, and the code has a reference to a ThreadLocal variable, then the two threads cannot see each other's ThreadLocal variables.
+
+
+
+Thread Signaling:
+            (to enable threads to send signals to each other. A)
+
+            public class MySignal{
+
+              protected boolean hasDataToProcess = false;
+
+              public synchronized boolean hasDataToProcess(){
+                return this.hasDataToProcess;
+              }
+
+              public synchronized void setHasDataToProcess(boolean hasData){
+                this.hasDataToProcess = hasData;
+              }
+
+            }
+
+            Thread A and B must have a reference to a shared MySignal instance for the signaling to work. If thread A and B has references to different MySignal instance, they will not detect each others signals. The data to be processed can be located in a shared buffer separate from the MySignal instance.
+
+
+        Busy Wait:
+                protected MySignal sharedSignal = ...
+
+                ...
+
+                while(!sharedSignal.hasDataToProcess()){
+                  //do nothing... busy waiting
+                }
+
+
+wait(),Notify(),NotifyAll()
+
+
+DEADLOCK:(Waiting never ends)
+    In deadlock, two threads are waiting for each other to release locks.
+    Synchronized keyword is the only reason for deadlock situation(we need to take special care)
+    No resolution techniques but prevention techniques are there
+
+Staravation:(Waiting ends @ certain point)
+    low priority threads needs to wait until high priority threads complete their execution
+
+In nested monitor lockout, Thread 1 is holding a lock A, and waits
+for a signal from Thread 2. Thread 2 needs the lock A to send the
+signal to Thread 1.
+
+Slipped conditions means, that from the time a thread has checked a certain condition until it acts upon it,
+ the condition has been changed by another thread so that it is errornous for the first thread to act.
+
+

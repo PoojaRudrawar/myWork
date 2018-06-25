@@ -1,0 +1,15 @@
+java8-
+
+use of lamdas-
+        ()->sout("Printing data");
+
+functional programming
+    more readable code
+
+
+Functional Interface
+    @FunctionalInterface annotation
+    only one abstract methos is there..so this interface can be used for lambdas
+
+
+
