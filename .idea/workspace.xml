@@ -2,141 +2,219 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27be620b-d450-4de2-bd5c-a53b68126d26" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/command.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/OLD/Collections/linkedList/palindromecheck.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NEW/Tree/CompleteBinaryTrreWithLinkedListeRepresentation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NEW/Tree/ConstructTreeFromInOrderLevelOrder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NEW/Tree/ConstructTreeFromInorderPreorder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NEW/Tree/Traversal/InOrderSuccesorOfAllNodes.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NEW/Tree/Traversal/InOrderSuccessorOfGivenNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NEW/Tree/Traversal/nthNodeOfInorderTraversal.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NEW/Tree/Traversal/reverseLevelOrder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NEW/Tree/constructCompleteBTGivenArrayOfLevelOrder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderAndItsMirror.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderandPreOrderLN.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/AllPermutationsOfString.java" afterPath="$PROJECT_DIR$/src/OLD/AllPermutationsOfString.java" />
-      <change beforePath="$PROJECT_DIR$/src/Beta.java" afterPath="$PROJECT_DIR$/src/OLD/Beta.java" />
-      <change beforePath="$PROJECT_DIR$/src/CDKtest.java" afterPath="$PROJECT_DIR$/src/OLD/CDKtest.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Arraylist/ArrayListLearning.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/Arraylist/ArrayListLearning.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Arraylist/RatingComparator.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/Arraylist/RatingComparator.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Arraylist/SmartPhone.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/Arraylist/SmartPhone.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Arraylist/SyncronizeArrayList.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/Arraylist/SyncronizeArrayList.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Comparable.txt" afterPath="$PROJECT_DIR$/src/OLD/Collections/Comparable.txt" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/DoubleLinkedList/CloneLinkedListWithNextAndRandomPointer.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/DoubleLinkedList/CloneLinkedListWithNextAndRandomPointer.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/DoubleLinkedList/DLLBasicOperation.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/DoubleLinkedList/DLLBasicOperation.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/DoubleLinkedList/reverseDoublyLinkedList.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/DoubleLinkedList/reverseDoublyLinkedList.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/DoubleLinkedList/swapKthNodeFromFrontEnd.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/DoubleLinkedList/swapKthNodeFromFrontEnd.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/linkedList/DetectLoopInLinkedList.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/linkedList/DetectLoopInLinkedList.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/linkedList/LinkedListCheck.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/linkedList/LinkedListCheck.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/linkedList/MiddleNodeOfLinkedList.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/linkedList/MiddleNodeOfLinkedList.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/linkedList/SortedInsertionInCircularLinkedList.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/linkedList/SortedInsertionInCircularLinkedList.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/linkedList/SwapNodesInLinkedList.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/linkedList/SwapNodesInLinkedList.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/linkedList/merge2SortedLinkedLists.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/linkedList/merge2SortedLinkedLists.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/linkedList/palindromecheck.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/linkedList/removeDuplicate.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/linkedList/removeDuplicate.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/linkedList/reverseLinkedList.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/linkedList/reverseLinkedList.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/linkedList/reverserecursive.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/linkedList/reverserecursive.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/tree/BinaryTreeToDLL.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/tree/BinaryTreeToDLL.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/tree/BinaryTreeTraversal.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/tree/BinaryTreeTraversal.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/tree/BoudryTraversal.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/tree/BoudryTraversal.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/tree/LevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/tree/LevelOrderTraversal.java" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/tree/comparableComparatorDemo/Employee.java" afterPath="$PROJECT_DIR$/src/OLD/Collections/tree/comparableComparatorDemo/Employee.java" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Arrays/ArraysRotationByReversal.java" afterPath="$PROJECT_DIR$/src/OLD/Arrays/ArraysRotationByReversal.java" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Arrays/RotateMatrixBy90DegreeInPlace.java" afterPath="$PROJECT_DIR$/src/OLD/Arrays/RotateMatrixBy90DegreeInPlace.java" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Arrays/SubarrayWithinGivenSum.java" afterPath="$PROJECT_DIR$/src/OLD/Arrays/SubarrayWithinGivenSum.java" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Arrays/pairInSortedArrayWhoseSumIsClosestToX.java" afterPath="$PROJECT_DIR$/src/OLD/Arrays/pairInSortedArrayWhoseSumIsClosestToX.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Computer.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/FactoryPattern/Computer.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/ComputerAbstractFactory.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/AbstractFactory/ComputerAbstractFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/ComputerFactory.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/AbstractFactory/ComputerFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/PC.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/AbstractFactory/PC.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/PCFactory.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/AbstractFactory/PCFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/Server.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/AbstractFactory/Server.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/ServerFactory.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/AbstractFactory/ServerFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/AbstractFactory/testAbstractFactoryPattern.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/AbstractFactory/testAbstractFactoryPattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Builder/Computer.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/Builder/Computer.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Builder/testComputerBuilder.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/Builder/testComputerBuilder.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/FactoryPattern/Computer.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/AbstractFactory/Computer.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/FactoryPattern/ComputerFactory.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/FactoryPattern/ComputerFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/FactoryPattern/PC.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/FactoryPattern/PC.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/FactoryPattern/Server.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/FactoryPattern/Server.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/FactoryPattern/testComputerFactory.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/FactoryPattern/testComputerFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Prototype/Employees.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/Prototype/Employees.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Prototype/TestPrototypePattern.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/Prototype/TestPrototypePattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Singleton/ThreadSafeSingleton.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/Singleton/ThreadSafeSingleton.java" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/Singleton/singleton.java" afterPath="$PROJECT_DIR$/src/OLD/DesignPattern/Singleton/singleton.java" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/LargestPalindrome.java" afterPath="$PROJECT_DIR$/src/OLD/DynamicProgramming/LargestPalindrome.java" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/o1Knapsack.java" afterPath="$PROJECT_DIR$/src/OLD/DynamicProgramming/o1Knapsack.java" />
-      <change beforePath="$PROJECT_DIR$/src/IO/DirectoryManager.java" afterPath="$PROJECT_DIR$/src/OLD/IO/DirectoryManager.java" />
-      <change beforePath="$PROJECT_DIR$/src/IO/FileDemo.java" afterPath="$PROJECT_DIR$/src/OLD/IO/FileDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/IO/testCleaner.java" afterPath="$PROJECT_DIR$/src/OLD/IO/testCleaner.java" />
-      <change beforePath="$PROJECT_DIR$/src/MyValue.java" afterPath="$PROJECT_DIR$/src/OLD/MyValue.java" />
-      <change beforePath="$PROJECT_DIR$/src/PalindromeNumber.java" afterPath="$PROJECT_DIR$/src/OLD/PalindromeNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/Permutations.java" afterPath="$PROJECT_DIR$/src/OLD/Permutations.java" />
-      <change beforePath="$PROJECT_DIR$/src/Program.java" afterPath="$PROJECT_DIR$/src/OLD/Program.java" />
-      <change beforePath="$PROJECT_DIR$/src/ReflectionApi.java" afterPath="$PROJECT_DIR$/src/OLD/ReflectionApi.java" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicateFromCharArray.java" afterPath="$PROJECT_DIR$/src/OLD/RemoveDuplicateFromCharArray.java" />
-      <change beforePath="$PROJECT_DIR$/src/SerializeTest1.java" afterPath="$PROJECT_DIR$/src/OLD/SerializeTest1.java" />
-      <change beforePath="$PROJECT_DIR$/src/SortTechniques/BubbleSort.java" afterPath="$PROJECT_DIR$/src/OLD/SortTechniques/BubbleSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/SortTechniques/InsertionSort.java" afterPath="$PROJECT_DIR$/src/OLD/SortTechniques/InsertionSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/SortTechniques/MergeSort.java" afterPath="$PROJECT_DIR$/src/OLD/SortTechniques/MergeSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/SortTechniques/QuickSort.java" afterPath="$PROJECT_DIR$/src/OLD/SortTechniques/QuickSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/SortTechniques/SelectionSort.java" afterPath="$PROJECT_DIR$/src/OLD/SortTechniques/SelectionSort.java" />
-      <change beforePath="$PROJECT_DIR$/src/Spring/Beans.xml" afterPath="$PROJECT_DIR$/src/OLD/Spring/Beans.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Spring/DrawingApp.java" afterPath="$PROJECT_DIR$/src/OLD/Spring/DrawingApp.java" />
-      <change beforePath="$PROJECT_DIR$/src/Spring/Triangle.java" afterPath="$PROJECT_DIR$/src/OLD/Spring/Triangle.java" />
-      <change beforePath="$PROJECT_DIR$/src/TestClass.java" afterPath="$PROJECT_DIR$/src/OLD/TestClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Deadlock/A.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/Deadlock/A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Deadlock/B.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/Deadlock/B.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Deadlock/DeadlockDemo.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/Deadlock/DeadlockDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ExecutorFrameworkThreadPool/ExecutorServiceDemo.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ExecutorFrameworkThreadPool/ExecutorServiceDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ExecutorFrameworkThreadPool/callableFutureThreadPool.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ExecutorFrameworkThreadPool/callableFutureThreadPool.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/InterthreadCommunication/ThreadA.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/InterthreadCommunication/ThreadA.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ReentrantLockDemo/ReentrantLockDemoProgram2.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ReentrantLockDemo/ReentrantLockDemoProgram2.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ReentrantLockDemo/lockDemo.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ReentrantLockDemo/lockDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ReentrantLockDemo/tryLockDemo.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ReentrantLockDemo/tryLockDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ReentrantLockDemo/tryLockTillAcquire.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ReentrantLockDemo/tryLockTillAcquire.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/SynchronizedBlock/SynchronizedBlockDemo1.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/SynchronizedBlock/SynchronizedBlockDemo1.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/SynchronizedBlock/SynchronizedBlockDemo2.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/SynchronizedBlock/SynchronizedBlockDemo2.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/TestThread.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/TestThread.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadExample.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadExample.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadFAQ" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadFAQ" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadGroup/ThreadGroupDemo.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadGroup/ThreadGroupDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadGroup/ThreadGroupDemo2.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadGroup/ThreadGroupDemo2.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadGroup/priorityDemo.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadGroup/priorityDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadInterruptDemo.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadInterruptDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadInterruptDemoForWorkinThread.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadInterruptDemoForWorkinThread.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadJoinDemo.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadJoinDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadJoinDemo2.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadJoinDemo2.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadLocal/localDemo1.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadLocal/localDemo1.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadLocal/localDemo2.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadLocal/localDemo2.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadLocal/localDemo3.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadLocal/localDemo3.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadLocalTest.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadLocalTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadPriority.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadPriority.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadRunningInSequence.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadRunningInSequence.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadSynchronizationDemo1.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadSynchronizationDemo1.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadSynchronizationDemo2.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadSynchronizationDemo2.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/ThreadYieldDemo.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/ThreadYieldDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Threads-Info.txt" afterPath="$PROJECT_DIR$/src/OLD/Threads/Threads-Info.txt" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/daemon/Daemon.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/daemon/Daemon.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/daemon/DaemonThreadDemo.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/daemon/DaemonThreadDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/daemon/GCFinalizeCase1.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/daemon/GCFinalizeCase1.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/daemon/GCFinalizeCase2.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/daemon/GCFinalizeCase2.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/daemon/GCFinalizeCase3.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/daemon/GCFinalizeCase3.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/daemon/GCFinalizeDemo4.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/daemon/GCFinalizeDemo4.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/daemon/GCFinalizeDemo5.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/daemon/GCFinalizeDemo5.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/daemon/GarbageCollectorDemo.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/daemon/GarbageCollectorDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/producerConsumer/PC.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/producerConsumer/PC.java" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/producerConsumer/PCDemo.java" afterPath="$PROJECT_DIR$/src/OLD/Threads/producerConsumer/PCDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/X863.java" afterPath="$PROJECT_DIR$/src/OLD/X863.java" />
-      <change beforePath="$PROJECT_DIR$/src/aa.java" afterPath="$PROJECT_DIR$/src/OLD/aa.java" />
-      <change beforePath="$PROJECT_DIR$/src/generics/GenericsTest1.java" afterPath="$PROJECT_DIR$/src/OLD/generics/GenericsTest1.java" />
-      <change beforePath="$PROJECT_DIR$/src/initializationSequence.java" afterPath="$PROJECT_DIR$/src/OLD/initializationSequence.java" />
-      <change beforePath="$PROJECT_DIR$/src/java8lamdas/Greeter.java" afterPath="$PROJECT_DIR$/src/OLD/java8lamdas/Greeter.java" />
-      <change beforePath="$PROJECT_DIR$/src/java8lamdas/Greeting.java" afterPath="$PROJECT_DIR$/src/OLD/java8lamdas/Greeting.java" />
-      <change beforePath="$PROJECT_DIR$/src/java8lamdas/HelloWordGreeting.java" afterPath="$PROJECT_DIR$/src/OLD/java8lamdas/HelloWordGreeting.java" />
-      <change beforePath="$PROJECT_DIR$/src/java8lamdas/RunnableExample.java" afterPath="$PROJECT_DIR$/src/OLD/java8lamdas/RunnableExample.java" />
-      <change beforePath="$PROJECT_DIR$/src/java8lamdas/TypeInterfaceExample.java" afterPath="$PROJECT_DIR$/src/OLD/java8lamdas/TypeInterfaceExample.java" />
-      <change beforePath="$PROJECT_DIR$/src/java8lamdas/excercise/Person.java" afterPath="$PROJECT_DIR$/src/OLD/java8lamdas/excercise/Person.java" />
-      <change beforePath="$PROJECT_DIR$/src/java8lamdas/excercise/excercise.java" afterPath="$PROJECT_DIR$/src/OLD/java8lamdas/excercise/excercise.java" />
-      <change beforePath="$PROJECT_DIR$/src/java8lamdas/java8info" afterPath="$PROJECT_DIR$/src/OLD/java8lamdas/java8info" />
-      <change beforePath="$PROJECT_DIR$/src/reverseWordOrder.java" afterPath="$PROJECT_DIR$/src/OLD/reverseWordOrder.java" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" afterPath="$PROJECT_DIR$/src/OLD/test.java" />
-      <change beforePath="$PROJECT_DIR$/src/test11.java" afterPath="$PROJECT_DIR$/src/OLD/test11.java" />
-      <change beforePath="$PROJECT_DIR$/src/testBarclays.java" afterPath="$PROJECT_DIR$/src/OLD/testBarclays.java" />
-      <change beforePath="$PROJECT_DIR$/src/testMyCode.java" afterPath="$PROJECT_DIR$/src/OLD/testMyCode.java" />
-      <change beforePath="$PROJECT_DIR$/src/testpubmatic.java" afterPath="$PROJECT_DIR$/src/OLD/testpubmatic.java" />
-      <change beforePath="$PROJECT_DIR$/src/x.java" afterPath="$PROJECT_DIR$/src/OLD/x.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/A1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/AllPermutationsOfString.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Alpha.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/B2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Beta.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/CDKtest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Car.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Child.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/Arraylist/ArrayListLearning.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/Arraylist/RatingComparator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/Arraylist/SmartPhone.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/Arraylist/SyncronizeArrayList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/Comparable.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/DoubleLinkedList/CloneLinkedListWithNextAndRandomPointer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/DoubleLinkedList/DLLBasicOperation$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/DoubleLinkedList/DLLBasicOperation.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/DoubleLinkedList/reverseDoublyLinkedList$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/DoubleLinkedList/reverseDoublyLinkedList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/DoubleLinkedList/swapKthNodeFromFrontEnd$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/DoubleLinkedList/swapKthNodeFromFrontEnd.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/DetectLoopInLinkedList$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/DetectLoopInLinkedList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/LinkedListCheck$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/LinkedListCheck.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/MiddleNodeOfLinkedList$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/MiddleNodeOfLinkedList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/SortedInsertionInCircularLinkedList$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/SortedInsertionInCircularLinkedList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/SwapNodesInLinkedList$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/SwapNodesInLinkedList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/merge2SortedLinkedLists$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/merge2SortedLinkedLists.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/palindromecheck.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/removeDuplicate$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/removeDuplicate.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/reverseLinkedList$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/reverseLinkedList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/reverserecursive$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/linkedList/reverserecursive.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/tree/BinaryTreeToDLL$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/tree/BinaryTreeToDLL.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/tree/BinaryTreeTraversal$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/tree/BinaryTreeTraversal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/tree/BoudryTraversal$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/tree/BoudryTraversal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/tree/LevelOrderTraversal$Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/tree/LevelOrderTraversal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/tree/comparableComparatorDemo/Employee.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Collections/tree/comparableComparatorDemo/EmployeeComparator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DataStructures/Arrays/ArraysRotationByReversal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DataStructures/Arrays/RotateMatrixBy90DegreeInPlace.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DataStructures/Arrays/SubarrayWithinGivenSum.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DataStructures/Arrays/pairInSortedArrayWhoseSumIsClosestToX.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/AbstractFactory/Computer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/AbstractFactory/ComputerAbstractFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/AbstractFactory/ComputerFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/AbstractFactory/PC.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/AbstractFactory/PCFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/AbstractFactory/Server.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/AbstractFactory/ServerFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/AbstractFactory/testAbstractFactoryPattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/Builder/Computer$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/Builder/Computer$ComputerBuilder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/Builder/Computer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/Builder/testComputerBuilder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/FactoryPattern/Computer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/FactoryPattern/ComputerFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/FactoryPattern/PC.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/FactoryPattern/Server.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/FactoryPattern/testComputerFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/Prototype/Employees.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/Prototype/TestPrototypePattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/Singleton/ThreadSafeSingleton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DesignPattern/Singleton/singleton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DynamicProgramming/LargestPalindrome.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/DynamicProgramming/o1Knapsack.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/IO/DirectoryManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/IO/FileDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/IO/testCleaner.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/MyValue.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/PalindromeNumber.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Parent.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Permutations.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Program.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/ReflectionApi.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/RemoveDuplicateFromCharArray.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/SerializeTest1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/SortTechniques/BubbleSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/SortTechniques/InsertionSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/SortTechniques/MergeSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/SortTechniques/QuickSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/SortTechniques/SelectionSort.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Spring/Beans.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Spring/Triangle.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/TestClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ChildThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ChildThread1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/Deadlock/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/Deadlock/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/Deadlock/DeadlockDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/Display.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/DisplayImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ExecutorFrameworkThreadPool/ExecutorServiceDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ExecutorFrameworkThreadPool/PrintDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ExecutorFrameworkThreadPool/callableFutureThreadPool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ExecutorFrameworkThreadPool/sumDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/InterthreadCommunication/ThreadA.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/InterthreadCommunication/ThreadB.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/Mythread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/Mythread1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/Mythread2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/Mythread3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ReentrantLockDemo/DemoThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ReentrantLockDemo/Display.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ReentrantLockDemo/MyThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ReentrantLockDemo/ReentrantLockDemoProgram2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ReentrantLockDemo/lockDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ReentrantLockDemo/tryLockDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ReentrantLockDemo/tryLockTillAcquire.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ReentrantLockDemo/wishThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ReentrantLockDemo/worker.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ResourceLock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/SynchronizedBlock/Display.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/SynchronizedBlock/Display1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/SynchronizedBlock/SynchronizedBlockDemo1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/SynchronizedBlock/SynchronizedBlockDemo2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/SynchronizedBlock/wishThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/SynchronizedBlock/wishThread1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/TestThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/Thread1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/Thread2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/Thread3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadDisplayC.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadDisplayN.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadExample$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadExample.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadFAQ" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadGroup/MyThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadGroup/ThreadGroupDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadGroup/ThreadGroupDemo2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadGroup/priorityDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadInterruptDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadInterruptDemoForWorkinThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadJoinDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadJoinDemo2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadLocal/customerDemo$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadLocal/customerDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadLocal/localDemo1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadLocal/localDemo2$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadLocal/localDemo2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadLocal/localDemo3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadLocalTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadPriority.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadRunningInSequence.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadSubclass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadSynchronizationDemo1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadSynchronizationDemo2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/ThreadYieldDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/Threads-Info.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/daemon/Daemon.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/daemon/DaemonThreadDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/daemon/GCFinalizeCase1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/daemon/GCFinalizeCase2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/daemon/GCFinalizeCase3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/daemon/GCFinalizeDemo4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/daemon/GCFinalizeDemo5.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/daemon/GarbageCollectorDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/daemon/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/daemon/daemonThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/daemon/myThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/myRunnable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/producerConsumer/PC.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/producerConsumer/PCDemo$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/producerConsumer/PCDemo$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/producerConsumer/PCDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Threads/wishThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/Vehicle.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/X863.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/generics/A.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/generics/B.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/generics/GenericsTest1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/generics/c.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/initializationSeq.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/initializationSequence.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/java8lamdas/Greeter$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/java8lamdas/Greeter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/java8lamdas/Greeting.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/java8lamdas/HelloWordGreeting.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/java8lamdas/RunnableExample$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/java8lamdas/RunnableExample.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/java8lamdas/TypeInterfaceExample$stringLengthLambda.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/java8lamdas/TypeInterfaceExample.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/java8lamdas/excercise/Person.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/java8lamdas/java8info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/reverseWordOrder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/test11.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/testBarclays$point.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/testBarclays.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/testMyCode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/testpubmatic.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/x.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -154,100 +232,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="removeDuplicate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OLD/Collections/linkedList/removeDuplicate.java">
+      <file leaf-file-name="ConstructTreeFromInOrderLevelOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NEW/Tree/ConstructTreeFromInOrderLevelOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="1428">
+              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reverseLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OLD/Collections/linkedList/reverseLinkedList.java">
+      <file leaf-file-name="CompleteBinaryTrreWithLinkedListeRepresentation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NEW/Tree/CompleteBinaryTrreWithLinkedListeRepresentation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reverserecursive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OLD/Collections/linkedList/reverserecursive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortedInsertionInCircularLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OLD/Collections/linkedList/SortedInsertionInCircularLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SwapNodesInLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OLD/Collections/linkedList/SwapNodesInLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="64" column="28" lean-forward="false" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="callableFutureThreadPool.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OLD/Threads/ExecutorFrameworkThreadPool/callableFutureThreadPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OLD/Threads/InterthreadCommunication/ThreadA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OLD/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyValue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OLD/MyValue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="45" column="34" lean-forward="false" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+            <state relative-caret-position="1547">
+              <caret line="91" column="9" lean-forward="false" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
               <folding>
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -259,6 +260,80 @@
             <state relative-caret-position="34">
               <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="constructTreeFromPreOrderAndItsMirror.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderAndItsMirror.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="constructCompleteBTGivenArrayOfLevelOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NEW/Tree/constructCompleteBTGivenArrayOfLevelOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="constructTreeFromPreOrderandPreOrderLN.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderandPreOrderLN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InOrderSuccesorOfAllNodes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NEW/Tree/Traversal/InOrderSuccesorOfAllNodes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InOrderSuccessorOfGivenNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NEW/Tree/Traversal/InOrderSuccessorOfGivenNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nthNodeOfInorderTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NEW/Tree/Traversal/nthNodeOfInorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="25" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverseLevelOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NEW/Tree/Traversal/reverseLevelOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -277,7 +352,14 @@
     <findStrings>
       <find>build</find>
       <find>DecimalFormat</find>
+      <find>norightChild</find>
+      <find>outputPrinted</find>
+      <find>package NEW\.Tree\.Traversal\;\n\npublic class InOrderSuccessorOfGivenNode \{\n\n    static class Node \{\n        int data\;\n        Node left\, right\;\n\n        Node\(int data\) \{\n            this\.data \= data\;\n            left \= right \= null\;\n        \}\n    \}\n\n    static Node root\,rootNode\;\n    static Node next \= null\;\n    Node temp \= null\;\n    static boolean found\=false\,outputNotPrinted\=true\;\n\n    public static void main\(String\[\] args\) \{\n        InOrderSuccessorOfGivenNode tree \= new InOrderSuccessorOfGivenNode\(\)\;\n        Node rootNode\=new Node\(1\)\;\n        tree\.root \=rootNode\;\n        tree\.root\.left \= new Node\(2\)\;\n        tree\.root\.right \= new Node\(3\)\;\n        tree\.root\.left\.left \= new Node\(4\)\;\n        tree\.root\.left\.right \= new Node\(5\)\;\n        tree\.root\.right\.left \= new Node\(6\)\;\n        tree\.root\.right\.right \= new Node\(7\)\;\n\n        Node node\=tree\.getInOrderSuccessor\(tree\.root\, 7\)\;\n\nif\(outputNotPrinted\)\{\n    System\.out\.println\(\&quot;Node inorder successor found\&quot;\)\;\n\}\n\n    \}\n\n    private Node getInOrderSuccessor\(Node root\, int nodeData\) \{\n        Node currentNode \= root\;\n        if \(currentNode \!\= null\) \{\n            if \(currentNode\.data \=\= nodeData\) \{\n                found\=true\;\n                if\(currentNode\.right\!\=null\)\{\n                    System\.out\.println\(\&quot;Inorder succesor of \&quot;\+nodeData\+\&quot; is \&quot;\+currentNode\.right\.data\)\;\n                   outputNotPrinted\=false\;\n                \}\n                return currentNode\;\n            \}\n        if\(\!found\)\{\n            temp \= getInOrderSuccessor\(root\.left\, nodeData\)\;\n\n            if \(temp \=\= null\) \{\n                temp \= getInOrderSuccessor\(root\.right\, nodeData\)\;\n            \}\n            if\(found \&amp;\&amp; outputNotPrinted\)\{\n                if\(currentNode\.left\=\=temp\)\{\n                    System\.out\.println\(\&quot;Inorder succesor of \&quot;\+nodeData\+\&quot; is \&quot;\+currentNode\.data\)\;\n                    outputNotPrinted\=false\;\n                \}else return currentNode\;\n            \}\n\n\n            return temp\;\n        \}\}\n        return null\;\n    \}\n\}\n</find>
     </findStrings>
+    <replaceStrings>
+      <replace>outputPrinted</replace>
+      <replace>outputNotPrinted</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -290,12 +372,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java8lamdas/excercise/excercise.java" />
-        <option value="$PROJECT_DIR$/src/Spring/DrawingApp.java" />
-        <option value="$PROJECT_DIR$/src/x.java" />
-        <option value="$PROJECT_DIR$/src/DataStructures/ArraysRotationByReversal.java" />
-        <option value="$PROJECT_DIR$/src/Threads/ThreadGroup/priorityDemo.java" />
-        <option value="$PROJECT_DIR$/src/Threads/ThreadLocal/localDemo1.java" />
         <option value="$PROJECT_DIR$/src/AllPermutationsOfString.java" />
         <option value="$PROJECT_DIR$/src/DesignPattern/Prototype/Employees.java" />
         <option value="$PROJECT_DIR$/src/testpubmatic.java" />
@@ -333,6 +409,20 @@
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/MyValue.java" />
         <option value="$PROJECT_DIR$/command.txt" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/ConstructTreeFromInorderPreorder.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/ConstructTreeFromInOrderLevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/CompleteBinaryTrreWithLinkedListRepresentation.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/CompleteBinaryTrreWithLinkedListeRepresentation.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/constructTreeFromPreOrderAndItsMirror.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/constructCompleteBTGivenArrayOfLevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/constructTreeFromPreOrderandPreOrderLN.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderandPreOrderLN.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/InOrderSuccesor.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/InOrderSuccesorOfAllNodes.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/InOrderSuccessorOfGivenNode.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/nthNodeOfInorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/revrseLevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/NEW/Tree/Traversal/reverseLevelOrder.java" />
       </list>
     </option>
   </component>
@@ -364,7 +454,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -377,13 +467,26 @@
               <item name="myWork" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Traversal" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,7 +510,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyValue">
+  <component name="RunManager" selected="Application.reverseLevelOrder">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -415,14 +518,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="LargestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="InOrderSuccesorOfAllNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="PATTERN" value="NEW.Tree.Traversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.LargestPalindrome" />
+      <option name="MAIN_CLASS_NAME" value="NEW.Tree.Traversal.InOrderSuccesorOfAllNodes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -434,28 +537,14 @@
       <module name="myWork" />
       <envs />
     </configuration>
-    <configuration name="MyValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MyValue" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="myWork" />
-      <envs />
-    </configuration>
-    <configuration name="ThreadRunningInSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="InOrderSuccessorOfGivenNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Threads.*" />
+          <option name="PATTERN" value="NEW.Tree.Traversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Threads.ThreadRunningInSequence" />
+      <option name="MAIN_CLASS_NAME" value="NEW.Tree.Traversal.InOrderSuccessorOfGivenNode" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -481,14 +570,14 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="o1Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="constructTreeFromPreOrderandPreOrderLN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="PATTERN" value="NEW.Tree.Traversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.o1Knapsack" />
+      <option name="MAIN_CLASS_NAME" value="NEW.Tree.Traversal.constructTreeFromPreOrderandPreOrderLN" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -500,9 +589,33 @@
       <module name="myWork" />
       <envs />
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="nthNodeOfInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="NEW.Tree.Traversal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="NEW.Tree.Traversal.nthNodeOfInorderTraversal" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="myWork" />
+      <envs />
+    </configuration>
+    <configuration name="reverseLevelOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="NEW.Tree.Traversal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="NEW.Tree.Traversal.reverseLevelOrder" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -575,19 +688,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.o1Knapsack" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ThreadRunningInSequence" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LargestPalindrome" />
-      <item index="3" class="java.lang.String" itemvalue="Application.test" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MyValue" />
+      <item index="0" class="java.lang.String" itemvalue="Application.constructTreeFromPreOrderandPreOrderLN" />
+      <item index="1" class="java.lang.String" itemvalue="Application.InOrderSuccesorOfAllNodes" />
+      <item index="2" class="java.lang.String" itemvalue="Application.InOrderSuccessorOfGivenNode" />
+      <item index="3" class="java.lang.String" itemvalue="Application.nthNodeOfInorderTraversal" />
+      <item index="4" class="java.lang.String" itemvalue="Application.reverseLevelOrder" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MyValue" />
-        <item index="1" class="java.lang.String" itemvalue="Application.test" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LargestPalindrome" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ThreadRunningInSequence" />
-        <item index="4" class="java.lang.String" itemvalue="Application.o1Knapsack" />
+        <item index="0" class="java.lang.String" itemvalue="Application.reverseLevelOrder" />
+        <item index="1" class="java.lang.String" itemvalue="Application.nthNodeOfInorderTraversal" />
+        <item index="2" class="java.lang.String" itemvalue="Application.InOrderSuccessorOfGivenNode" />
+        <item index="3" class="java.lang.String" itemvalue="Application.InOrderSuccesorOfAllNodes" />
+        <item index="4" class="java.lang.String" itemvalue="Application.constructTreeFromPreOrderandPreOrderLN" />
       </list>
     </recent_temporary>
   </component>
@@ -618,20 +731,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2526475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26399395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -642,10 +758,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -660,18 +774,18 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43463498" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43463498" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22087745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26399395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -790,18 +904,142 @@
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/ConstructTreeFromInorderPreorder.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/ConstructTreeFromInorderPreorder.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/ConstructTreeFromInorderPreorder.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/ConstructTreeFromInorderPreorder.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/ConstructTreeFromInorderPreorder.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/constructCompleteBTGivenArrayOfLevelOrder.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/constructCompleteBTGivenArrayOfLevelOrder.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderAndItsMirror.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderAndItsMirror.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderAndItsMirror.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderAndItsMirror.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderAndItsMirror.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderandPreOrderLN.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderandPreOrderLN.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/Traversal/InOrderSuccesorOfAllNodes.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/Traversal/InOrderSuccessorOfGivenNode.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/Traversal/InOrderSuccessorOfGivenNode.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NEW/Tree/Traversal/reverseLevelOrder.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="27" />
+      <option name="time" value="56" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="currentNode.data" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>preOrderMirror[min+1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>list1.getFirst()
         ;</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>currentNode.data</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
     <expressions id="evaluateExpression">
@@ -853,92 +1091,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/OLD/Threads/Deadlock/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OLD/Permutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OLD/Arrays/RotateMatrixBy90DegreeInPlace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OLD/Arrays/SubarrayWithinGivenSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OLD/Arrays/ArraysRotationByReversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OLD/Arrays/pairInSortedArrayWhoseSumIsClosestToX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OLD/DesignPattern/AbstractFactory/ComputerAbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OLD/DesignPattern/AbstractFactory/ComputerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OLD/DesignPattern/AbstractFactory/PCFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OLD/DesignPattern/Builder/testComputerBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OLD/DesignPattern/Builder/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OLD/SortTechniques/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OLD/SortTechniques/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
@@ -1181,14 +1333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OLD/Threads/ExecutorFrameworkThreadPool/callableFutureThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OLD/Threads/InterthreadCommunication/ThreadA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -1199,7 +1343,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OLD/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="221">
           <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
           <folding />
         </state>
@@ -1214,17 +1358,126 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OLD/MyValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="765">
           <caret line="45" column="34" lean-forward="false" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
           <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="false" />
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#264#265#0" expanded="false" />
+            <element signature="e#302#303#0" expanded="false" />
+            <element signature="e#337#338#0" expanded="false" />
+            <element signature="e#368#369#0" expanded="false" />
+            <element signature="e#413#414#0" expanded="false" />
+            <element signature="e#450#451#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OLD/Threads/ExecutorFrameworkThreadPool/callableFutureThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NEW/Tree/ConstructTreeFromInorderPreorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Tools/javalib/jdk1.8.0_25/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59568">
+          <caret line="3575" column="64" lean-forward="false" selection-start-line="3575" selection-start-column="64" selection-end-line="3575" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Tools/javalib/jdk1.8.0_25/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="290" column="24" lean-forward="false" selection-start-line="290" selection-start-column="24" selection-end-line="290" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderAndItsMirror.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NEW/Tree/CompleteBinaryTrreWithLinkedListeRepresentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="9" lean-forward="false" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NEW/Tree/ConstructTreeFromInOrderLevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NEW/Tree/constructTreeFromPreOrderandPreOrderLN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NEW/Tree/constructCompleteBTGivenArrayOfLevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NEW/Tree/Traversal/InOrderSuccesorOfAllNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NEW/Tree/Traversal/InOrderSuccessorOfGivenNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NEW/Tree/Traversal/nthNodeOfInorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="25" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NEW/Tree/Traversal/reverseLevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
