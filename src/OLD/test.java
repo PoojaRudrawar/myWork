@@ -15,6 +15,8 @@ public class test {
         for(String val:strArr){
             System.out.println(val);
         }
+
+        System.out.println(1+2+"H");
         outer:
             while(age<21){
             if(age==16) {

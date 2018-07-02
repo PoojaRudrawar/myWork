@@ -1,19 +1,19 @@
 package OLD;
 
-public class test11 {
+public class implementOnlyHashCode {
     int age;
 
     @Override
     public int hashCode() {
         return 1;
     }
-    test11(int age){
+    implementOnlyHashCode(int age){
         this.age=age;
     }
 
     public static void main(String[] args) {
-        test11 t=new test11(12);
-        test11 t1=new test11(12);
+        implementOnlyHashCode t=new implementOnlyHashCode(12);
+        implementOnlyHashCode t1=new implementOnlyHashCode(12);
 
         System.out.println(t==t1);
         System.out.println(t.equals(t1));
