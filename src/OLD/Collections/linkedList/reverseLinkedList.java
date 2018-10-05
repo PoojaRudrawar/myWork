@@ -1,5 +1,7 @@
 package OLD.Collections.linkedList;
 
+import java.util.ArrayList;
+
 /**
  * Created by PRudrawar on 11/13/2017.
  */
@@ -55,5 +57,18 @@ public class reverseLinkedList {
         ll.printList();
         ll.reverseList();
         ll.printList();
+
+        ArrayList<Integer> al=new ArrayList<>();
+        al=test(al);
+
+        System.out.println("test"+al.get(0));
+
+        String str="a1";
+        System.out.println((str.trim().split("\\_")).length);
+    }
+
+    private static ArrayList test(ArrayList ll) {
+        ll.add(0,1);
+        return ll;
     }
 }

@@ -38,6 +38,7 @@ public class removeDuplicate {
                 if(temp.data == compareNode.data){
                     prev.next=compareNode.next;
                 }
+                prev=compareNode;
                 compareNode=compareNode.next;
             }
             temp=temp.next;

@@ -24,3 +24,6 @@ public class GCFinalizeCase2 {
         }
     }
 
+/*in GCFinalizeCase1 finalize method
+killed GCFinalize Obj
+in GCFinalizeCase1 finalize method*/

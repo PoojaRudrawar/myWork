@@ -14,7 +14,5 @@ public class ThreadGroupDemo {
         System.out.println(tg1.getName());
         ThreadGroup tgchild=new ThreadGroup(tg1,"child group");
         System.out.println(tgchild.getName() +" is child o f"+ tgchild.getParent().getName());
-
-
     }
 }

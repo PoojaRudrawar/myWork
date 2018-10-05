@@ -1,0 +1,7 @@
+Random access based on index
+
+insert operation slower(if inserting in middle)
+
+get operation faster
+
+delete slower if (elemet is in middle)

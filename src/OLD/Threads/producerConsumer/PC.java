@@ -18,8 +18,6 @@ public class PC {
 
         synchronized (this) {
             while (true) {
-
-
                 // producer thread waits while list
                 // is full
                 if (ll.size() == capacity)

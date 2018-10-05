@@ -20,3 +20,10 @@ public class GCFinalizeCase1 {
         System.out.println("in GCFinalizeCase1 finalize method");
     }
 }
+
+/*
+* OUTPUT:
+* Killed string obj
+killed GCFinalize Obj
+in GCFinalizeCase1 finalize method
+*/

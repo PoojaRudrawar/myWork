@@ -9,10 +9,15 @@ import java.util.Scanner;
 public class test {
     public static void main(String[] args) {
         int age=12;
-
-        String str1="abc";
+        System.out.println((1+2)/2);
+       /* String str1="abc";
         String[] strArr=str1.split(",");
         for(String val:strArr){
+            System.out.println(val);
+        }*/
+
+        String txtMsgArr[] = "abc_def".trim().split("\\_");
+        for(String val:txtMsgArr){
             System.out.println(val);
         }
 
